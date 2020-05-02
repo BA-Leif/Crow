@@ -1,0 +1,1431 @@
+﻿Log file open, 05/02/20 11:42:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: plattformer_crow
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.290538
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal Engine/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.02-10.42.35:783][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.02-10.42.35:783][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.02-10.42.35:783][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Engine.ini]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Engine.ini]
+[2020.05.02-10.42.35:784][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Engine.ini]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Engine.ini]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.02-10.42.35:784][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Engine.ini]
+[2020.05.02-10.42.35:784][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Engine.ini]
+[2020.05.02-10.42.35:789][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:789][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.02-10.42.35:789][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.02-10.42.35:789][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:789][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.02-10.42.35:789][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:789][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.02-10.42.35:790][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.02-10.42.35:791][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.02-10.42.35:791][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.02-10.42.35:791][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.02-10.42.35:794][  0]LogHAL: Display: Platform has ~ 16 GB [17059696640 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.02-10.42.35:794][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.02-10.42.35:794][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:794][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.02-10.42.35:794][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.02-10.42.35:794][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:794][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.02-10.42.35:794][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:794][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.02-10.42.35:794][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.02-10.42.35:794][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.02-10.42.35:794][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.02-10.42.35:794][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.02-10.42.35:794][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.02-10.42.35:795][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Scalability.ini]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.02-10.42.35:796][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/BA/Desktop/plattformer_crow/Saved/Config/Windows/Engine.ini]
+[2020.05.02-10.42.35:796][  0]LogInit: Computer: BA-STEEL
+[2020.05.02-10.42.35:796][  0]LogInit: User: BA
+[2020.05.02-10.42.35:796][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.05.02-10.42.35:796][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.02-10.42.35:797][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.02-10.42.35:797][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.02-10.42.35:797][  0]LogMemory: Process Physical Memory: 103.35 MB used, 103.36 MB peak
+[2020.05.02-10.42.35:797][  0]LogMemory: Process Virtual Memory: 99.16 MB used, 99.16 MB peak
+[2020.05.02-10.42.35:797][  0]LogMemory: Physical Memory: 4991.17 MB used,  11278.23 MB free, 16269.39 MB total
+[2020.05.02-10.42.35:797][  0]LogMemory: Virtual Memory: 4653.13 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.05.02-10.42.36:226][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.05.02-10.42.36:427][  0]LogInit: Using OS detected language (de-DE).
+[2020.05.02-10.42.36:427][  0]LogInit: Using OS detected locale (de-DE).
+[2020.05.02-10.42.36:429][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so the 'de' localization will be used.
+[2020.05.02-10.42.36:429][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/de/Editor.locres' could not be opened for reading!
+[2020.05.02-10.42.36:429][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/de/EditorTutorials.locres' could not be opened for reading!
+[2020.05.02-10.42.36:429][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/de/Keywords.locres' could not be opened for reading!
+[2020.05.02-10.42.36:430][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/de/Category.locres' could not be opened for reading!
+[2020.05.02-10.42.36:430][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/de/ToolTips.locres' could not be opened for reading!
+[2020.05.02-10.42.36:430][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/de/PropertyNames.locres' could not be opened for reading!
+[2020.05.02-10.42.36:430][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/de/Engine.locres' could not be opened for reading!
+[2020.05.02-10.42.36:451][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.02-10.42.36:511][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.02-10.42.36:511][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.02-10.42.36:843][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.02-10.42.36:843][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.02-10.42.36:977][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2020.05.02-10.42.36:978][  0]LogD3D11RHI:       6052/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.05.02-10.42.36:995][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.05.02-10.42.36:995][  0]LogD3D11RHI:       128/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.05.02-10.42.37:004][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.02-10.42.37:004][  0]LogD3D11RHI:       0/0/8134 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.02-10.42.37:004][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.02-10.42.37:096][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.02-10.42.37:134][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.02-10.42.37:134][  0]LogWindows: EnumDisplayDevices:
+[2020.05.02-10.42.37:134][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.05.02-10.42.37:135][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.05.02-10.42.37:135][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.05.02-10.42.37:136][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.02-10.42.37:137][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.02-10.42.37:137][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.02-10.42.37:137][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2020.05.02-10.42.37:138][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.05.02-10.42.37:138][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2020.05.02-10.42.37:138][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2020.05.02-10.42.37:138][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2020.05.02-10.42.37:138][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2020.05.02-10.42.37:201][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.02-10.42.37:220][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.05.02-10.42.37:746][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.02-10.42.37:757][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.02-10.42.37:767][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.02-10.42.37:779][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.02-10.42.37:790][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.02-10.42.37:801][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.02-10.42.37:812][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.02-10.42.37:822][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.02-10.42.37:827][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.02-10.42.37:906][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.02-10.42.37:909][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.02-10.42.37:947][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.02-10.42.37:947][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.02-10.42.37:964][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.02-10.42.37:964][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.02-10.42.37:973][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.02-10.42.37:982][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.02-10.42.37:994][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.02-10.42.38:003][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.02-10.42.38:031][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.02-10.42.38:031][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.02-10.42.38:031][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.02-10.42.38:043][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.02-10.42.38:155][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (C:/Users/BA/Desktop/plattformer_crow/Intermediate/Shaders/WorkingDirectory/12116/).
+[2020.05.02-10.42.38:156][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/BA/AppData/Local/Temp/UnrealShaderWorkingDir/8C9EF64B489726CDC04C1EA26D9822AD/'.
+[2020.05.02-10.42.38:178][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.02-10.42.38:178][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.02-10.42.38:178][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.02-10.42.38:935][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.02-10.42.38:992][  0]LogDerivedDataCache: Loaded boot cache 0.06s 73MB C:/Users/BA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.05.02-10.42.38:992][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/BA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.05.02-10.42.38:993][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/BA/Desktop/plattformer_crow/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.02-10.42.38:993][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.02-10.42.38:993][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/BA/Desktop/plattformer_crow/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.02-10.42.38:993][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.02-10.42.39:006][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.02-10.42.39:007][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.02-10.42.39:007][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.02-10.42.39:047][  0]LogDerivedDataCache: Using Local data cache path C:/Users/BA/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.02-10.42.39:047][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.02-10.42.39:047][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.02-10.42.39:079][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.02-10.42.39:082][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.02-10.42.39:610][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.02-10.42.39:688][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2020.05.02-10.42.40:036][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.02-10.42.40:688][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.02-10.42.40:688][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.02-10.42.40:688][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.02-10.42.40:688][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.02-10.42.40:688][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.02-10.42.40:714][  0]LogNetVersion: plattformer_crow 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2094653162)
+[2020.05.02-10.42.41:402][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.048631 seconds
+[2020.05.02-10.42.41:410][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.05.02-10.42.41:410][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.05.02-10.42.41:410][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.02-10.42.43:580][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.02-10.42.43:625][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.02-10.42.43:841][  0]SourceControl: Source control is disabled
+[2020.05.02-10.42.43:841][  0]SourceControl: Source control is disabled
+[2020.05.02-10.42.43:868][  0]SourceControl: Source control is disabled
+[2020.05.02-10.42.43:895][  0]SourceControl: Source control is disabled
+[2020.05.02-10.42.44:260][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.02-10.42.44:852][  0]LogOcInput: OculusInput pre-init called
+[2020.05.02-10.42.44:860][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.05.02-10.42.44:860][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.05.02-10.42.45:114][  0]LogEngine: Initializing Engine...
+[2020.05.02-10.42.45:115][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.02-10.42.45:116][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.02-10.42.45:406][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.02-10.42.45:690][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.02-10.42.45:730][  0]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.02-10.42.45:851][  0]LogInit: FAudioDevice initialized.
+[2020.05.02-10.42.45:851][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.02-10.42.45:941][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/BA/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.05.02-10.42.45:944][  0]LogInit: Texture streaming: Enabled
+[2020.05.02-10.42.46:073][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.02-10.42.46:073][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.05.02-10.42.46:079][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.05.02-10.42.46:145][  0]LogInit: Transaction tracking system initialized
+[2020.05.02-10.42.46:406][  0]BlueprintLog: New page: Editor Load
+[2020.05.02-10.42.46:863][  0]LocalizationService: Localization service is disabled
+[2020.05.02-10.42.47:487][  0]LogFileCache: Scanning file cache for directory 'C:/Users/BA/Desktop/plattformer_crow/Content/' took 0.01s
+[2020.05.02-10.42.47:487][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.02-10.42.47:487][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.02-10.42.48:536][  0]SourceControl: Source control is disabled
+[2020.05.02-10.42.48:536][  0]Cmd: MAP LOAD FILE="C:/Users/BA/Desktop/plattformer_crow/Content/AdvancedPlatformer/Map/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.02-10.42.48:546][  0]LightingResults: New page: Lighting Build
+[2020.05.02-10.42.48:606][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.42.48:607][  0]MapCheck: New page: Map Check
+[2020.05.02-10.42.48:607][  0]LightingResults: New page: Lighting Build
+[2020.05.02-10.42.48:636][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.05.02-10.42.52:168][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2020.05.02-10.42.52:168][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2020.05.02-10.42.52:168][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2020.05.02-10.42.52:168][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.05.02-10.42.52:168][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2020.05.02-10.42.52:168][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.05.02-10.42.52:168][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2020.05.02-10.42.52:168][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2020.05.02-10.42.52:169][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.05.02-10.42.52:169][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.05.02-10.42.52:169][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Fire_wav...
+[2020.05.02-10.42.53:555][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2020.05.02-10.42.53:555][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2020.05.02-10.42.53:555][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2020.05.02-10.42.53:555][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.05.02-10.42.53:555][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2020.05.02-10.42.53:555][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 5783036 while cooking SoundWave /Game/AdvancedPlatformer/Audio/Wav/Fire_wav.Fire_wav.
+[2020.05.02-10.42.55:387][  0]LogStaticMesh: Building static mesh SM_AssetPlatform...
+[2020.05.02-10.42.56:034][  0]LogStaticMesh: Built static mesh [0.65s] /Game/AdvancedPlatformer/ExampleContent/StarterContent/Architecture/SM_AssetPlatform.SM_AssetPlatform
+[2020.05.02-10.42.56:826][  0]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2020.05.02-10.42.57:332][  0]LogMaterial: Display: Missing cached shader map for material M_UE4Enemy_Body, compiling. 
+[2020.05.02-10.42.57:450][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.05.02-10.42.57:450][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.05.02-10.42.57:450][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.05.02-10.42.57:450][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.05.02-10.42.57:450][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3
+[2020.05.02-10.42.57:450][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave PlatformerThem_Wav...
+[2020.05.02-10.43.02:431][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 39083624 while cooking SoundWave /Game/AdvancedPlatformer/Audio/Wav/PlatformerThem_Wav.PlatformerThem_Wav.
+[2020.05.02-10.43.02:760][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2020.05.02-10.43.02:851][  0]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/AdvancedPlatformer/ExampleContent/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2020.05.02-10.43.02:856][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave SaveSound...
+[2020.05.02-10.43.02:882][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 326508 while cooking SoundWave /Game/AdvancedPlatformer/Audio/Wav/SaveSound.SaveSound.
+[2020.05.02-10.43.02:882][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave PowerUp_Wav...
+[2020.05.02-10.43.02:960][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 652172 while cooking SoundWave /Game/AdvancedPlatformer/Audio/Wav/PowerUp_Wav.PowerUp_Wav.
+[2020.05.02-10.43.02:961][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Health_Wav...
+[2020.05.02-10.43.03:076][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1303496 while cooking SoundWave /Game/AdvancedPlatformer/Audio/Wav/Health_Wav.Health_Wav.
+[2020.05.02-10.43.03:077][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Coin_Wav...
+[2020.05.02-10.43.03:103][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 326508 while cooking SoundWave /Game/AdvancedPlatformer/Audio/Wav/Coin_Wav.Coin_Wav.
+[2020.05.02-10.43.03:104][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave Applause_Wav...
+[2020.05.02-10.43.03:301][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1766544 while cooking SoundWave /Game/AdvancedPlatformer/Audio/Wav/Applause_Wav.Applause_Wav.
+[2020.05.02-10.43.04:216][  0]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.43.06:147][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.02-10.43.06:364][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.05.02-10.43.06:364][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.02-10.43.06:365][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,172ms to complete.
+[2020.05.02-10.43.06:365][  0]LogFileHelpers: Loading map 'Demonstration' took 17.829
+[2020.05.02-10.43.09:257][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 125
+[2020.05.02-10.43.09:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-10.43.09:325][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-10.43.09:336][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-10.43.09:349][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-10.43.10:001][  0]LogCollectionManager: Loaded 0 collections in 0.003410 seconds
+[2020.05.02-10.43.11:079][  0]LogFileCache: Scanning file cache for directory 'C:/Users/BA/Desktop/plattformer_crow/Saved/Collections/' took 0.00s
+[2020.05.02-10.43.11:079][  0]LogFileCache: Scanning file cache for directory 'C:/Users/BA/Desktop/plattformer_crow/Content/Developers/BA/Collections/' took 0.00s
+[2020.05.02-10.43.11:079][  0]LogFileCache: Scanning file cache for directory 'C:/Users/BA/Desktop/plattformer_crow/Content/Collections/' took 0.00s
+[2020.05.02-10.43.11:079][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 115
+[2020.05.02-10.43.11:079][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000020 seconds
+[2020.05.02-10.43.11:147][  0]LogContentBrowser: Native class hierarchy populated in 0.0402 seconds. Added 2863 classes and 680 folders.
+[2020.05.02-10.43.11:649][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 105
+[2020.05.02-10.43.11:649][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 95
+[2020.05.02-10.43.11:649][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 85
+[2020.05.02-10.43.11:650][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.05.02-10.43.14:544][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 75
+[2020.05.02-10.43.14:544][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 65
+[2020.05.02-10.43.14:544][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 55
+[2020.05.02-10.43.14:544][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 45
+[2020.05.02-10.43.14:544][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.05.02-10.43.15:071][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 35
+[2020.05.02-10.43.15:071][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.05.02-10.43.18:415][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.05.02-10.43.18:415][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 21
+[2020.05.02-10.43.18:415][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.05.02-10.43.18:415][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2020.05.02-10.43.18:415][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.05.02-10.43.18:415][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.05.02-10.43.18:415][  0]LogSlate: Took 0.000342 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.02-10.43.18:441][  0]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.02-10.43.18:511][  0]LogSlate: Took 0.028122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.02-10.43.19:165][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.05.02-10.43.19:165][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 3
+[2020.05.02-10.43.19:165][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.05.02-10.43.19:165][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.05.02-10.43.19:165][  0]LogRenderer: Reallocating scene render targets to support 860x332 Format 10 NumSamples 1 (Frame:1).
+[2020.05.02-10.43.19:633][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.05.02-10.43.19:633][  0]LogLoad: (Engine Initialization) Total time: 47.33 seconds
+[2020.05.02-10.43.19:633][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.02-10.43.19:760][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-10.43.19:885][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.02-10.43.19:952][  0]LogSlate: Took 0.014682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.43.23:621][189]LogAssetRegistry: Asset discovery search completed in 43.9341 seconds
+[2020.05.02-10.43.23:624][189]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2020.05.02-10.43.23:624][189]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000060 seconds (updated 0 objects)
+[2020.05.02-10.43.32:909][746]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.02-10.43.32:955][746]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2020.05.02-10.43.32:965][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.02-10.43.33:012][746]PIE: New page: PIE session: Demonstration (02.05.2020 12:43:32)
+[2020.05.02-10.43.33:033][746]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.02-10.43.33:036][746]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.43.33:094][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058500s)
+[2020.05.02-10.43.33:094][746]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.43.33:095][746]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2020.05.02-10.43.33:095][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.059851s)
+[2020.05.02-10.43.33:126][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.05.02-10.43.33:156][746]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.02-10.43.33:266][746]LogInit: FAudioDevice initialized.
+[2020.05.02-10.43.33:284][746]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.43.33:311][746]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 60) at 2020.05.02-11.43.33
+[2020.05.02-10.43.33:431][746]LogWorld: Bringing up level for play took: 0.133652
+[2020.05.02-10.43.33:431][746]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.05.02-10.43.33:531][746]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.02-10.43.33:683][746]PIE: Play in editor start time for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration 0,452
+[2020.05.02-10.43.33:683][746]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2020.05.02-10.43.43:826][332]LogBlueprintUserMessages: [PowerUPJump_5] Hello
+[2020.05.02-10.43.47:771][568]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.43.47:807][568]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.43.47:807][568]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.43.47:819][568]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.43.47:876][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.05.02-10.43.47:877][568]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.43.47:917][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039500s)
+[2020.05.02-10.43.47:917][568]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.43.47:917][568]LogPlayLevel: PIE: World Init took: (0.000872s)
+[2020.05.02-10.43.47:918][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.040670s)
+[2020.05.02-10.43.47:918][568]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.43.47:953][568]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 60) at 2020.05.02-11.43.47
+[2020.05.02-10.43.47:956][568]LogWorld: Bringing up level for play took: 0.036787
+[2020.05.02-10.43.47:963][568]LogLoad: Took 0.156116 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.43.58:061][173]LogBlueprintUserMessages: [PowerUPJump_5] Hello
+[2020.05.02-10.44.04:536][673]LogBlueprintUserMessages: [CheckPoint_2] Save
+[2020.05.02-10.44.10:990][270]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.44.10:990][270]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.44.10:990][270]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.44.10:991][270]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.44.11:026][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.05.02-10.44.11:026][270]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.44.11:075][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048302s)
+[2020.05.02-10.44.11:076][270]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.44.11:076][270]LogPlayLevel: PIE: World Init took: (0.001064s)
+[2020.05.02-10.44.11:076][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.049653s)
+[2020.05.02-10.44.11:076][270]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.44.11:105][270]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.44.11
+[2020.05.02-10.44.11:109][270]LogWorld: Bringing up level for play took: 0.031835
+[2020.05.02-10.44.11:116][270]LogBlueprintUserMessages: [CheckPoint_2] Save
+[2020.05.02-10.44.11:117][270]LogLoad: Took 0.127639 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.44.22:761][476]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.44.22:761][476]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.44.22:761][476]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.44.22:762][476]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.44.22:800][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2020.05.02-10.44.22:801][476]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.44.22:837][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037220s)
+[2020.05.02-10.44.22:838][476]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.44.22:838][476]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2020.05.02-10.44.22:839][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038549s)
+[2020.05.02-10.44.22:839][476]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.44.22:872][476]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.44.22
+[2020.05.02-10.44.22:875][476]LogWorld: Bringing up level for play took: 0.035241
+[2020.05.02-10.44.22:884][476]LogBlueprintUserMessages: [CheckPoint_2] Save
+[2020.05.02-10.44.22:885][476]LogLoad: Took 0.123895 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.44.34:194][656]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.44.34:194][656]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.44.34:194][656]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.44.34:194][656]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.44.34:229][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.05.02-10.44.34:229][656]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.44.34:266][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037214s)
+[2020.05.02-10.44.34:268][656]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.44.34:268][656]LogPlayLevel: PIE: World Init took: (0.001699s)
+[2020.05.02-10.44.34:268][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039148s)
+[2020.05.02-10.44.34:268][656]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.44.34:288][656]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.44.34
+[2020.05.02-10.44.34:291][656]LogWorld: Bringing up level for play took: 0.021380
+[2020.05.02-10.44.34:299][656]LogBlueprintUserMessages: [CheckPoint_2] Save
+[2020.05.02-10.44.34:300][656]LogLoad: Took 0.105880 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.44.49:963][340]LogBlueprintUserMessages: [CheckPoint2] Save
+[2020.05.02-10.44.51:031][451]LogBlueprintUserMessages: [PowerUPSpeed_2] Hello
+[2020.05.02-10.44.54:340][796]LogBlueprintUserMessages: [PowerUPSpeed2] Hello
+[2020.05.02-10.44.54:400][802]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.44.54:400][802]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.44.54:400][802]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.44.54:401][802]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.44.54:440][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.05.02-10.44.54:441][802]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.44.54:479][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038844s)
+[2020.05.02-10.44.54:480][802]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.44.54:480][802]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2020.05.02-10.44.54:481][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.040327s)
+[2020.05.02-10.44.54:481][802]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.44.54:504][802]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.44.54
+[2020.05.02-10.44.54:507][802]LogWorld: Bringing up level for play took: 0.025278
+[2020.05.02-10.44.54:514][802]LogBlueprintUserMessages: [CheckPoint2] Save
+[2020.05.02-10.44.54:515][802]LogLoad: Took 0.115548 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.44.55:595][908]LogBlueprintUserMessages: [PowerUPSpeed_2] Hello
+[2020.05.02-10.44.56:019][952]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.44.56:019][952]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.44.56:019][952]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.44.56:019][952]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.44.56:056][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2020.05.02-10.44.56:056][952]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.44.56:093][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037172s)
+[2020.05.02-10.44.56:094][952]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.44.56:095][952]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2020.05.02-10.44.56:095][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038539s)
+[2020.05.02-10.44.56:095][952]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.44.56:127][952]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.44.56
+[2020.05.02-10.44.56:130][952]LogWorld: Bringing up level for play took: 0.034296
+[2020.05.02-10.44.56:138][952]LogBlueprintUserMessages: [CheckPoint2] Save
+[2020.05.02-10.44.56:139][952]LogLoad: Took 0.120104 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.44.57:211][ 58]LogBlueprintUserMessages: [PowerUPSpeed_2] Hello
+[2020.05.02-10.44.57:639][102]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.44.57:639][102]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.44.57:639][102]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.44.57:640][102]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.44.57:676][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.05.02-10.44.57:676][102]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.44.57:714][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038275s)
+[2020.05.02-10.44.57:715][102]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.44.57:716][102]LogPlayLevel: PIE: World Init took: (0.000939s)
+[2020.05.02-10.44.57:716][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039578s)
+[2020.05.02-10.44.57:716][102]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.44.57:753][102]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.44.57
+[2020.05.02-10.44.57:755][102]LogWorld: Bringing up level for play took: 0.038387
+[2020.05.02-10.44.57:763][102]LogBlueprintUserMessages: [CheckPoint2] Save
+[2020.05.02-10.44.57:764][102]LogLoad: Took 0.124522 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.44.58:829][205]LogBlueprintUserMessages: [PowerUPSpeed_2] Hello
+[2020.05.02-10.45.03:886][735]LogBlueprintUserMessages: [PowerUPSpeed2] Hello
+[2020.05.02-10.45.05:597][915]LogBlueprintUserMessages: [CheckPoint3] Save
+[2020.05.02-10.45.07:405][106]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.45.07:405][106]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.45.07:405][106]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.45.07:406][106]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.45.07:444][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.05.02-10.45.07:444][106]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.45.07:481][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037095s)
+[2020.05.02-10.45.07:482][106]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.45.07:482][106]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2020.05.02-10.45.07:482][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038228s)
+[2020.05.02-10.45.07:482][106]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.45.07:513][106]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.45.07
+[2020.05.02-10.45.07:516][106]LogWorld: Bringing up level for play took: 0.033496
+[2020.05.02-10.45.07:524][106]LogBlueprintUserMessages: [CheckPoint3] Save
+[2020.05.02-10.45.07:525][106]LogLoad: Took 0.120479 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.45.36:213][213]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.45.36:213][213]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.45.36:213][213]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.45.36:214][213]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.45.36:249][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.05.02-10.45.36:249][213]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.45.36:289][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039309s)
+[2020.05.02-10.45.36:290][213]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.45.36:290][213]LogPlayLevel: PIE: World Init took: (0.001166s)
+[2020.05.02-10.45.36:290][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.040688s)
+[2020.05.02-10.45.36:290][213]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.45.36:323][213]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.45.36
+[2020.05.02-10.45.36:326][213]LogWorld: Bringing up level for play took: 0.034283
+[2020.05.02-10.45.36:333][213]LogBlueprintUserMessages: [CheckPoint3] Save
+[2020.05.02-10.45.36:334][213]LogLoad: Took 0.120482 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.45.36:351][214]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.137730 > MaxSimulationTimeStep (0.050) for 'BP_SideScrollerCharacterAdvanced_C_0', movement 'Walking'
+[2020.05.02-10.45.41:272][728]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.45.41:272][728]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.45.41:272][728]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.45.41:273][728]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.45.41:306][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.05.02-10.45.41:307][728]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.45.41:344][728]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038041s)
+[2020.05.02-10.45.41:345][728]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.45.41:346][728]LogPlayLevel: PIE: World Init took: (0.001764s)
+[2020.05.02-10.45.41:346][728]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.040101s)
+[2020.05.02-10.45.41:346][728]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.45.41:365][728]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.45.41
+[2020.05.02-10.45.41:367][728]LogWorld: Bringing up level for play took: 0.019971
+[2020.05.02-10.45.41:375][728]LogBlueprintUserMessages: [CheckPoint3] Save
+[2020.05.02-10.45.41:376][728]LogLoad: Took 0.104517 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.46.15:502][398]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.46.15:502][398]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.46.15:502][398]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.46.15:502][398]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.46.15:538][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.05.02-10.46.15:538][398]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.46.15:577][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038510s)
+[2020.05.02-10.46.15:578][398]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.46.15:578][398]LogPlayLevel: PIE: World Init took: (0.000989s)
+[2020.05.02-10.46.15:578][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039740s)
+[2020.05.02-10.46.15:578][398]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.46.15:607][398]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.46.15
+[2020.05.02-10.46.15:610][398]LogWorld: Bringing up level for play took: 0.031247
+[2020.05.02-10.46.15:618][398]LogBlueprintUserMessages: [CheckPoint3] Save
+[2020.05.02-10.46.15:619][398]LogLoad: Took 0.116972 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.46.15:636][399]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.133481 > MaxSimulationTimeStep (0.050) for 'BP_SideScrollerCharacterAdvanced_C_0', movement 'Walking'
+[2020.05.02-10.46.20:602][912]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2020.05.02-10.46.20:883][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-10.46.20:883][912]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.46.20:884][912]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.46.20:905][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.02-10.46.20:905][912]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2020.05.02-10.46.20:945][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-10.46.20:952][912]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.05.02-10.46.20:970][913]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.05.02-10.46.23:982][261]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.05.02-10.46.32:519][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-10.46.35:668][587]LogEditorViewport: Clicking on Actor (LMB): BP_DecorObject_C (DecorObject3)
+[2020.05.02-10.46.36:654][696]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.05.02-10.46.38:636][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-10.46.39:569][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (1M_Cube_Chamfer7)
+[2020.05.02-10.47.03:273][691]LogEditorViewport: Clicking on Actor (LMB): BP_PowerUPSpeed_C (PowerUPSpeed)
+[2020.05.02-10.47.07:106][142]LogEditorViewport: Clicking on Actor (LMB): BP_Coin_C (Coins6)
+[2020.05.02-10.47.17:392][346]LogEditorViewport: Clicking on Actor (LMB): BP_MovingPlatformY_C (MovingPlatform)
+[2020.05.02-10.47.42:634][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.02-10.47.58:611][173]LogSlate: Took 0.000365 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.02-10.48.02:382][583]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration
+[2020.05.02-10.48.02:920][583]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.05.02-10.48.04:264][583]LogSlate: Took 0.019376 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.05.02-10.48.06:446][785]LogSlate: Took 0.010039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.05.02-10.49.01:268][529]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/AdvancedPlatformer/Blueprints/BP_MovingPlatformY.BP_MovingPlatformY
+[2020.05.02-10.50.37:321][517]LogRenderer: Reallocating scene render targets to support 860x412 Format 10 NumSamples 1 (Frame:1).
+[2020.05.02-10.52.03:516][947]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.02-10.52.03:522][947]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2020.05.02-10.52.03:523][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.02-10.52.03:523][947]PIE: New page: PIE session: Demonstration (02.05.2020 12:52:03)
+[2020.05.02-10.52.03:523][947]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.52.03:570][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047095s)
+[2020.05.02-10.52.03:572][947]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.52.03:572][947]LogPlayLevel: PIE: World Init took: (0.001924s)
+[2020.05.02-10.52.03:572][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.049269s)
+[2020.05.02-10.52.03:618][947]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.05.02-10.52.03:642][947]LogInit: XAudio2 using 'Lautsprecher (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2020.05.02-10.52.03:758][947]LogInit: FAudioDevice initialized.
+[2020.05.02-10.52.03:775][947]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.52.03:791][947]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.52.03
+[2020.05.02-10.52.03:796][947]LogWorld: Bringing up level for play took: 0.019440
+[2020.05.02-10.52.03:796][947]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.05.02-10.52.03:809][947]LogBlueprintUserMessages: [CheckPoint3] Save
+[2020.05.02-10.52.03:810][947]PIE: Play in editor start time for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration 0,578
+[2020.05.02-10.52.03:810][947]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2020.05.02-10.52.43:562][457]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.52.43:562][457]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.52.43:562][457]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.52.43:564][457]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.52.43:617][457]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.05.02-10.52.43:617][457]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.52.43:664][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047142s)
+[2020.05.02-10.52.43:665][457]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.52.43:665][457]LogPlayLevel: PIE: World Init took: (0.001034s)
+[2020.05.02-10.52.43:665][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.048399s)
+[2020.05.02-10.52.43:666][457]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.52.43:703][457]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.52.43
+[2020.05.02-10.52.43:706][457]LogWorld: Bringing up level for play took: 0.039667
+[2020.05.02-10.52.43:715][457]LogBlueprintUserMessages: [CheckPoint3] Save
+[2020.05.02-10.52.43:716][457]LogLoad: Took 0.153725 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.53.13:873][247]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.53.14:111][268]LogBlueprintUserMessages: [FireRing2_2] 80.0
+[2020.05.02-10.53.15:090][351]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.53.15:330][371]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.53.15:330][371]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.53.15:330][371]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.53.15:331][371]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.53.15:384][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.05.02-10.53.15:384][371]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.53.15:427][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043744s)
+[2020.05.02-10.53.15:428][371]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.53.15:429][371]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2020.05.02-10.53.15:429][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.045492s)
+[2020.05.02-10.53.15:429][371]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.53.15:467][371]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.53.15
+[2020.05.02-10.53.15:470][371]LogWorld: Bringing up level for play took: 0.040325
+[2020.05.02-10.53.15:479][371]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.53.15:480][371]LogLoad: Took 0.150158 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.53.17:394][529]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.53.18:231][598]LogBlueprintUserMessages: [FireRing3_11] 80.0
+[2020.05.02-10.53.23:043][ 54]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.53.23:043][ 54]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.53.23:043][ 54]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.53.23:044][ 54]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.53.23:090][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.05.02-10.53.23:090][ 54]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.53.23:129][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038659s)
+[2020.05.02-10.53.23:130][ 54]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.53.23:130][ 54]LogPlayLevel: PIE: World Init took: (0.001197s)
+[2020.05.02-10.53.23:130][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.040103s)
+[2020.05.02-10.53.23:130][ 54]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.53.23:163][ 54]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.53.23
+[2020.05.02-10.53.23:167][ 54]LogWorld: Bringing up level for play took: 0.035460
+[2020.05.02-10.53.23:175][ 54]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.53.23:176][ 54]LogLoad: Took 0.132601 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.53.23:989][123]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.53.25:217][230]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.53.26:051][303]LogBlueprintUserMessages: [FireRing3_11] 80.0
+[2020.05.02-10.53.26:177][314]LogBlueprintUserMessages: [FireRing3_11] 60.0
+[2020.05.02-10.53.29:864][642]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.53.29:864][642]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.53.29:864][642]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.53.29:865][642]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.53.29:916][642]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.05.02-10.53.29:916][642]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.53.29:958][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041734s)
+[2020.05.02-10.53.29:959][642]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.53.29:959][642]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2020.05.02-10.53.29:959][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.043172s)
+[2020.05.02-10.53.29:959][642]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.53.30:002][642]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.53.30
+[2020.05.02-10.53.30:006][642]LogWorld: Bringing up level for play took: 0.045307
+[2020.05.02-10.53.30:015][642]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.53.30:015][642]LogLoad: Took 0.150858 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.53.32:121][821]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.53.32:956][892]LogBlueprintUserMessages: [FireRing3_11] 80.0
+[2020.05.02-10.53.43:639][867]LogBlueprintUserMessages: [Coins34] Hello
+[2020.05.02-10.53.52:844][712]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.53.52:844][712]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.53.52:844][712]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.53.52:845][712]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.53.52:893][712]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.05.02-10.53.52:894][712]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.53.52:931][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037385s)
+[2020.05.02-10.53.52:932][712]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.53.52:932][712]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2020.05.02-10.53.52:932][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038580s)
+[2020.05.02-10.53.52:932][712]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.53.52:968][712]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.53.52
+[2020.05.02-10.53.52:972][712]LogWorld: Bringing up level for play took: 0.037756
+[2020.05.02-10.53.52:980][712]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.53.52:980][712]LogLoad: Took 0.135900 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.53.53:933][793]LogBlueprintUserMessages: [FireRing2_2] 80.0
+[2020.05.02-10.53.54:920][880]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.53.55:757][952]LogBlueprintUserMessages: [FireRing3_11] 60.0
+[2020.05.02-10.53.58:628][204]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.53.58:629][204]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.53.58:629][204]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.53.58:630][204]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.53.58:681][204]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.05.02-10.53.58:682][204]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.53.58:722][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040469s)
+[2020.05.02-10.53.58:723][204]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.53.58:724][204]LogPlayLevel: PIE: World Init took: (0.001067s)
+[2020.05.02-10.53.58:724][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.041789s)
+[2020.05.02-10.53.58:724][204]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.53.58:761][204]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.53.58
+[2020.05.02-10.53.58:765][204]LogWorld: Bringing up level for play took: 0.040350
+[2020.05.02-10.53.58:774][204]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.53.58:775][204]LogLoad: Took 0.145286 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.54.00:654][367]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.54.01:483][442]LogBlueprintUserMessages: [FireRing3_11] 80.0
+[2020.05.02-10.54.04:259][704]LogBlueprintUserMessages: [Coins34] Hello
+[2020.05.02-10.54.06:566][927]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.06:567][927]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.06:567][927]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.06:567][927]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.54.06:610][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.05.02-10.54.06:611][927]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.06:651][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040438s)
+[2020.05.02-10.54.06:653][927]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.54.06:653][927]LogPlayLevel: PIE: World Init took: (0.001385s)
+[2020.05.02-10.54.06:653][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.042118s)
+[2020.05.02-10.54.06:653][927]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.54.06:683][927]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.54.06
+[2020.05.02-10.54.06:686][927]LogWorld: Bringing up level for play took: 0.031403
+[2020.05.02-10.54.06:694][927]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.54.06:694][927]LogLoad: Took 0.128077 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.54.06:929][947]LogBlueprintUserMessages: [FireRing2_2] 80.0
+[2020.05.02-10.54.08:508][ 92]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.54.11:222][347]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.11:222][347]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.11:222][347]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.11:223][347]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.54.11:268][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2020.05.02-10.54.11:268][347]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.11:306][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037029s)
+[2020.05.02-10.54.11:306][347]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.54.11:307][347]LogPlayLevel: PIE: World Init took: (0.000946s)
+[2020.05.02-10.54.11:307][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038229s)
+[2020.05.02-10.54.11:307][347]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.54.11:335][347]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.54.11
+[2020.05.02-10.54.11:338][347]LogWorld: Bringing up level for play took: 0.030293
+[2020.05.02-10.54.11:346][347]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.54.11:347][347]LogLoad: Took 0.125439 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.54.13:152][514]LogBlueprintUserMessages: [FireRing2_2] 80.0
+[2020.05.02-10.54.13:569][553]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.54.14:425][631]LogBlueprintUserMessages: [FireRing3_11] 60.0
+[2020.05.02-10.54.16:308][810]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.16:308][810]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.16:308][810]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.16:309][810]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.54.16:359][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.05.02-10.54.16:359][810]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.16:397][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038139s)
+[2020.05.02-10.54.16:398][810]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.54.16:398][810]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2020.05.02-10.54.16:398][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039595s)
+[2020.05.02-10.54.16:398][810]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.54.16:428][810]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.54.16
+[2020.05.02-10.54.16:430][810]LogWorld: Bringing up level for play took: 0.030658
+[2020.05.02-10.54.16:438][810]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.54.16:439][810]LogLoad: Took 0.130572 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.54.17:267][885]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.54.17:386][896]LogBlueprintUserMessages: [FireRing2_2] 80.0
+[2020.05.02-10.54.18:347][985]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.54.21:375][266]LogBlueprintUserMessages: [Coins34] Hello
+[2020.05.02-10.54.23:027][427]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.23:027][427]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.23:027][427]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.23:028][427]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.54.23:079][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.05.02-10.54.23:079][427]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.23:118][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038403s)
+[2020.05.02-10.54.23:119][427]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.54.23:119][427]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2020.05.02-10.54.23:119][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039795s)
+[2020.05.02-10.54.23:119][427]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.54.23:151][427]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.54.23
+[2020.05.02-10.54.23:154][427]LogWorld: Bringing up level for play took: 0.034261
+[2020.05.02-10.54.23:162][427]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.54.23:163][427]LogLoad: Took 0.136578 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.54.24:296][528]LogBlueprintUserMessages: [FireRing2_2] 80.0
+[2020.05.02-10.54.24:866][581]LogBlueprintUserMessages: [FireRing2_2] 60.0
+[2020.05.02-10.54.25:256][617]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.54.28:521][927]LogBlueprintUserMessages: [Coins34] Hello
+[2020.05.02-10.54.31:664][237]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.31:664][237]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.31:664][237]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.31:665][237]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.54.31:707][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.05.02-10.54.31:707][237]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.31:746][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039320s)
+[2020.05.02-10.54.31:747][237]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.54.31:747][237]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2020.05.02-10.54.31:747][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.040560s)
+[2020.05.02-10.54.31:747][237]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.54.31:782][237]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.54.31
+[2020.05.02-10.54.31:786][237]LogWorld: Bringing up level for play took: 0.037805
+[2020.05.02-10.54.31:794][237]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.54.31:795][237]LogLoad: Took 0.131255 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.54.32:024][256]LogBlueprintUserMessages: [FireRing2_2] 80.0
+[2020.05.02-10.54.32:686][317]LogBlueprintUserMessages: [FireRing2_2] 60.0
+[2020.05.02-10.54.33:125][357]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.54.33:377][380]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.33:377][380]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.33:377][380]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.33:378][380]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.54.33:426][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.05.02-10.54.33:427][380]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.33:465][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038042s)
+[2020.05.02-10.54.33:466][380]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.54.33:466][380]LogPlayLevel: PIE: World Init took: (0.001208s)
+[2020.05.02-10.54.33:466][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039523s)
+[2020.05.02-10.54.33:466][380]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.54.33:494][380]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.54.33
+[2020.05.02-10.54.33:497][380]LogWorld: Bringing up level for play took: 0.029808
+[2020.05.02-10.54.33:506][380]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.54.33:506][380]LogLoad: Took 0.128607 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.54.33:525][381]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.146818 > MaxSimulationTimeStep (0.050) for 'BP_SideScrollerCharacterAdvanced_C_0', movement 'Walking'
+[2020.05.02-10.54.34:405][461]LogBlueprintUserMessages: [FireRing2_2] 80.0
+[2020.05.02-10.54.34:983][514]LogBlueprintUserMessages: [FireRing2_2] 60.0
+[2020.05.02-10.54.35:380][551]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.54.36:210][627]LogBlueprintUserMessages: [FireRing3_11] 40.0
+[2020.05.02-10.54.39:263][919]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.39:263][919]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.54.39:263][919]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.39:264][919]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.54.39:308][919]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.05.02-10.54.39:309][919]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.54.39:347][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037772s)
+[2020.05.02-10.54.39:347][919]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.54.39:348][919]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2020.05.02-10.54.39:348][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039169s)
+[2020.05.02-10.54.39:348][919]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.54.39:374][919]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.54.39
+[2020.05.02-10.54.39:377][919]LogWorld: Bringing up level for play took: 0.027567
+[2020.05.02-10.54.39:386][919]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.54.39:386][919]LogLoad: Took 0.123438 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.54.40:588][ 28]LogBlueprintUserMessages: [FireRing2_2] 80.0
+[2020.05.02-10.54.41:153][ 81]LogBlueprintUserMessages: [FireRing2_2] 60.0
+[2020.05.02-10.54.41:532][116]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.54.42:382][194]LogBlueprintUserMessages: [FireRing3_11] 40.0
+[2020.05.02-10.54.45:219][469]LogBlueprintUserMessages: [Coins34] Hello
+[2020.05.02-10.55.02:273][130]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.55.02:273][130]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.55.02:273][130]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.55.02:274][130]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.55.02:316][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.05.02-10.55.02:316][130]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.55.02:353][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037355s)
+[2020.05.02-10.55.02:354][130]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.55.02:354][130]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2020.05.02-10.55.02:354][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039056s)
+[2020.05.02-10.55.02:354][130]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.55.02:390][130]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.55.02
+[2020.05.02-10.55.02:393][130]LogWorld: Bringing up level for play took: 0.037571
+[2020.05.02-10.55.02:401][130]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.55.02:402][130]LogLoad: Took 0.129879 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.55.09:588][807]LogBlueprintUserMessages: [FireRing2_2] 80.0
+[2020.05.02-10.55.10:871][927]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.55.11:707][  4]LogBlueprintUserMessages: [FireRing3_11] 60.0
+[2020.05.02-10.55.13:582][183]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.55.13:582][183]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.55.13:582][183]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.55.13:583][183]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.55.13:624][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.05.02-10.55.13:624][183]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.55.13:662][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038060s)
+[2020.05.02-10.55.13:663][183]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.55.13:663][183]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2020.05.02-10.55.13:663][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039303s)
+[2020.05.02-10.55.13:663][183]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.55.13:694][183]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.55.13
+[2020.05.02-10.55.13:697][183]LogWorld: Bringing up level for play took: 0.032405
+[2020.05.02-10.55.13:706][183]LogBlueprintUserMessages: [CheckPoint4] Save
+[2020.05.02-10.55.13:706][183]LogLoad: Took 0.123144 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.55.14:547][259]LogBlueprintUserMessages: [FireRing2_2] 80.0
+[2020.05.02-10.55.15:130][313]LogBlueprintUserMessages: [FireRing2_2] 60.0
+[2020.05.02-10.55.15:575][354]LogBlueprintUserMessages: [PowerUPSpeed3_7] Hello
+[2020.05.02-10.55.16:415][431]LogBlueprintUserMessages: [FireRing3_11] 40.0
+[2020.05.02-10.55.21:282][906]LogBlueprintUserMessages: [Coins34] Hello
+[2020.05.02-10.55.47:263][492]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.55.51:187][887]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.55.51:187][887]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.55.51:187][887]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.55.51:188][887]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.55.51:231][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.05.02-10.55.51:231][887]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.55.51:270][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039011s)
+[2020.05.02-10.55.51:271][887]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.55.51:271][887]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2020.05.02-10.55.51:271][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.040449s)
+[2020.05.02-10.55.51:271][887]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.55.51:299][887]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.55.51
+[2020.05.02-10.55.51:301][887]LogWorld: Bringing up level for play took: 0.029201
+[2020.05.02-10.55.51:309][887]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.55.51:310][887]LogLoad: Took 0.123412 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.55.57:031][448]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.55.57:032][448]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.55.57:032][448]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.55.57:032][448]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.55.57:075][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.05.02-10.55.57:075][448]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.55.57:113][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037265s)
+[2020.05.02-10.55.57:114][448]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.55.57:114][448]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2020.05.02-10.55.57:114][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038454s)
+[2020.05.02-10.55.57:114][448]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.55.57:147][448]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.55.57
+[2020.05.02-10.55.57:150][448]LogWorld: Bringing up level for play took: 0.035330
+[2020.05.02-10.55.57:159][448]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.55.57:159][448]LogLoad: Took 0.127430 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.56.08:896][603]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.56.08:896][603]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.56.08:896][603]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.56.08:897][603]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.56.08:944][603]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.05.02-10.56.08:945][603]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.56.08:983][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037661s)
+[2020.05.02-10.56.08:984][603]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.56.08:984][603]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2020.05.02-10.56.08:984][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039176s)
+[2020.05.02-10.56.08:984][603]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.56.09:014][603]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.56.09
+[2020.05.02-10.56.09:017][603]LogWorld: Bringing up level for play took: 0.031271
+[2020.05.02-10.56.09:025][603]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.56.09:025][603]LogLoad: Took 0.128904 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.56.39:467][602]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.56.39:468][602]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.56.39:468][602]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.56.39:469][602]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.56.39:510][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.05.02-10.56.39:510][602]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.56.39:550][602]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039255s)
+[2020.05.02-10.56.39:551][602]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.56.39:551][602]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2020.05.02-10.56.39:551][602]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.040521s)
+[2020.05.02-10.56.39:551][602]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.56.39:583][602]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.56.39
+[2020.05.02-10.56.39:586][602]LogWorld: Bringing up level for play took: 0.033836
+[2020.05.02-10.56.39:594][602]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.56.39:595][602]LogLoad: Took 0.127083 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.56.47:132][344]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.56.47:133][344]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.56.47:133][344]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.56.47:133][344]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.56.47:176][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.05.02-10.56.47:176][344]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.56.47:214][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037175s)
+[2020.05.02-10.56.47:214][344]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.56.47:215][344]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2020.05.02-10.56.47:215][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038550s)
+[2020.05.02-10.56.47:215][344]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.56.47:255][344]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.56.47
+[2020.05.02-10.56.47:258][344]LogWorld: Bringing up level for play took: 0.042618
+[2020.05.02-10.56.47:266][344]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.56.47:266][344]LogLoad: Took 0.134022 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.56.52:520][861]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.56.52:521][861]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.56.52:521][861]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.56.52:521][861]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.56.52:570][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.05.02-10.56.52:570][861]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.56.52:608][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037439s)
+[2020.05.02-10.56.52:609][861]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.56.52:609][861]LogPlayLevel: PIE: World Init took: (0.001307s)
+[2020.05.02-10.56.52:610][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039084s)
+[2020.05.02-10.56.52:610][861]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.56.52:646][861]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.56.52
+[2020.05.02-10.56.52:649][861]LogWorld: Bringing up level for play took: 0.038346
+[2020.05.02-10.56.52:657][861]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.56.52:658][861]LogLoad: Took 0.136836 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.56.58:077][394]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.56.58:077][394]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.56.58:077][394]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.56.58:078][394]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.56.58:122][394]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.05.02-10.56.58:122][394]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.56.58:161][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038126s)
+[2020.05.02-10.56.58:162][394]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.56.58:162][394]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2020.05.02-10.56.58:162][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039375s)
+[2020.05.02-10.56.58:162][394]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.56.58:188][394]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.56.58
+[2020.05.02-10.56.58:191][394]LogWorld: Bringing up level for play took: 0.027733
+[2020.05.02-10.56.58:199][394]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.56.58:199][394]LogLoad: Took 0.121482 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.57.01:290][694]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.57.01:290][694]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.57.01:290][694]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.57.01:291][694]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.57.01:329][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.05.02-10.57.01:330][694]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.57.01:366][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036640s)
+[2020.05.02-10.57.01:367][694]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.57.01:368][694]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2020.05.02-10.57.01:368][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038000s)
+[2020.05.02-10.57.01:368][694]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.57.01:404][694]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.57.01
+[2020.05.02-10.57.01:407][694]LogWorld: Bringing up level for play took: 0.037488
+[2020.05.02-10.57.01:415][694]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.57.01:416][694]LogLoad: Took 0.125098 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.58.19:401][403]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.58.24:230][879]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.58.24:230][879]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.58.24:230][879]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.58.24:231][879]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.58.24:275][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.05.02-10.58.24:276][879]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.58.24:315][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039242s)
+[2020.05.02-10.58.24:316][879]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.58.24:316][879]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2020.05.02-10.58.24:316][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.040425s)
+[2020.05.02-10.58.24:316][879]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.58.24:352][879]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.58.24
+[2020.05.02-10.58.24:355][879]LogWorld: Bringing up level for play took: 0.036713
+[2020.05.02-10.58.24:362][879]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.58.24:363][879]LogLoad: Took 0.133500 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.58.29:514][383]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.58.29:514][383]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.58.29:514][383]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.58.29:515][383]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.58.29:561][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.05.02-10.58.29:561][383]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.58.29:599][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037670s)
+[2020.05.02-10.58.29:600][383]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.58.29:601][383]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2020.05.02-10.58.29:601][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039289s)
+[2020.05.02-10.58.29:601][383]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.58.29:628][383]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.58.29
+[2020.05.02-10.58.29:631][383]LogWorld: Bringing up level for play took: 0.028682
+[2020.05.02-10.58.29:639][383]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.58.29:639][383]LogLoad: Took 0.125358 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.58.37:878][195]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.58.37:878][195]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.58.37:878][195]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.58.37:879][195]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.58.37:924][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.05.02-10.58.37:924][195]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.58.37:963][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038987s)
+[2020.05.02-10.58.37:964][195]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.58.37:965][195]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2020.05.02-10.58.37:965][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.040219s)
+[2020.05.02-10.58.37:965][195]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.58.37:991][195]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.58.37
+[2020.05.02-10.58.37:994][195]LogWorld: Bringing up level for play took: 0.028470
+[2020.05.02-10.58.38:003][195]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.58.38:003][195]LogLoad: Took 0.124834 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.58.45:633][948]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.58.45:633][948]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.58.45:633][948]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.58.45:634][948]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.58.45:680][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.05.02-10.58.45:680][948]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.58.45:718][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037019s)
+[2020.05.02-10.58.45:719][948]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.58.45:719][948]LogPlayLevel: PIE: World Init took: (0.001256s)
+[2020.05.02-10.58.45:719][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038503s)
+[2020.05.02-10.58.45:719][948]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.58.45:748][948]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.58.45
+[2020.05.02-10.58.45:752][948]LogWorld: Bringing up level for play took: 0.031054
+[2020.05.02-10.58.45:760][948]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.58.45:760][948]LogLoad: Took 0.126960 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.59.02:119][568]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.02:119][568]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.02:119][568]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.02:120][568]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.59.02:167][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.05.02-10.59.02:168][568]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.02:207][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039145s)
+[2020.05.02-10.59.02:208][568]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.59.02:208][568]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2020.05.02-10.59.02:208][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.040479s)
+[2020.05.02-10.59.02:209][568]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.59.02:240][568]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.59.02
+[2020.05.02-10.59.02:242][568]LogWorld: Bringing up level for play took: 0.032563
+[2020.05.02-10.59.02:250][568]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.59.02:251][568]LogLoad: Took 0.131610 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.59.09:487][282]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.09:487][282]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.09:487][282]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.09:488][282]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.59.09:536][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.05.02-10.59.09:536][282]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.09:574][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037157s)
+[2020.05.02-10.59.09:575][282]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.59.09:575][282]LogPlayLevel: PIE: World Init took: (0.001302s)
+[2020.05.02-10.59.09:575][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038815s)
+[2020.05.02-10.59.09:575][282]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.59.09:611][282]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.59.09
+[2020.05.02-10.59.09:614][282]LogWorld: Bringing up level for play took: 0.037638
+[2020.05.02-10.59.09:622][282]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.59.09:622][282]LogLoad: Took 0.134712 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.59.15:136][825]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.15:136][825]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.15:136][825]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.15:137][825]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.59.15:181][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.05.02-10.59.15:181][825]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.15:219][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037454s)
+[2020.05.02-10.59.15:220][825]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.59.15:220][825]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2020.05.02-10.59.15:220][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038777s)
+[2020.05.02-10.59.15:220][825]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.59.15:249][825]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.59.15
+[2020.05.02-10.59.15:252][825]LogWorld: Bringing up level for play took: 0.030187
+[2020.05.02-10.59.15:260][825]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.59.15:261][825]LogLoad: Took 0.123961 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.59.24:779][766]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.24:779][766]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.24:779][766]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.24:780][766]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.59.24:825][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.05.02-10.59.24:825][766]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.24:864][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038679s)
+[2020.05.02-10.59.24:865][766]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.59.24:866][766]LogPlayLevel: PIE: World Init took: (0.001572s)
+[2020.05.02-10.59.24:866][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.040460s)
+[2020.05.02-10.59.24:866][766]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.59.24:899][766]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.59.24
+[2020.05.02-10.59.24:902][766]LogWorld: Bringing up level for play took: 0.035368
+[2020.05.02-10.59.24:910][766]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.59.24:911][766]LogLoad: Took 0.132563 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.59.27:654][ 28]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.27:654][ 28]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.27:654][ 28]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.27:655][ 28]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.59.27:702][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.05.02-10.59.27:702][ 28]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.27:739][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036881s)
+[2020.05.02-10.59.27:740][ 28]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.59.27:740][ 28]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2020.05.02-10.59.27:741][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038109s)
+[2020.05.02-10.59.27:741][ 28]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.59.27:772][ 28]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.59.27
+[2020.05.02-10.59.27:774][ 28]LogWorld: Bringing up level for play took: 0.032779
+[2020.05.02-10.59.27:782][ 28]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.59.27:783][ 28]LogLoad: Took 0.128891 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.59.38:254][ 64]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.38:254][ 64]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.38:254][ 64]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.38:255][ 64]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.59.38:299][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2020.05.02-10.59.38:299][ 64]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.38:337][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037406s)
+[2020.05.02-10.59.38:338][ 64]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.59.38:338][ 64]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2020.05.02-10.59.38:338][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.038925s)
+[2020.05.02-10.59.38:338][ 64]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.59.38:367][ 64]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.59.38
+[2020.05.02-10.59.38:370][ 64]LogWorld: Bringing up level for play took: 0.030791
+[2020.05.02-10.59.38:378][ 64]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.59.38:379][ 64]LogLoad: Took 0.125085 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-10.59.56:883][891]LogNet: Browse: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.56:883][891]LogLoad: LoadMap: /Game/AdvancedPlatformer/Map/Demonstration
+[2020.05.02-10.59.56:883][891]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.56:884][891]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-10.59.56:932][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.05.02-10.59.56:933][891]LogPlayLevel: Creating play world package: /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-10.59.56:971][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037936s)
+[2020.05.02-10.59.56:972][891]LogAIModule: Creating AISystem for world Demonstration
+[2020.05.02-10.59.56:972][891]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2020.05.02-10.59.56:972][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AdvancedPlatformer/Map/Demonstration.Demonstration to /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration (0.039407s)
+[2020.05.02-10.59.56:972][891]LogLoad: Game class is 'BP_SideScrollerGameMode_C'
+[2020.05.02-10.59.57:009][891]LogWorld: Bringing World /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration.Demonstration up for play (max tick rate 0) at 2020.05.02-11.59.57
+[2020.05.02-10.59.57:012][891]LogWorld: Bringing up level for play took: 0.038759
+[2020.05.02-10.59.57:020][891]LogBlueprintUserMessages: [CheckPoint5] Save
+[2020.05.02-10.59.57:021][891]LogLoad: Took 0.137822 seconds to LoadMap(/Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration)
+[2020.05.02-11.00.01:993][368]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2020.05.02-11.00.01:994][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-11.00.01:994][368]LogWorld: BeginTearingDown for /Game/AdvancedPlatformer/Map/UEDPIE_0_Demonstration
+[2020.05.02-11.00.01:995][368]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2020.05.02-11.00.02:011][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.02-11.00.02:011][368]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel' has LevelScriptBlueprint '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration' with GeneratedClass '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration_C' with ClassGeneratedBy '/Game/AdvancedPlatformer/Map/Demonstration.Demonstration:PersistentLevel.Demonstration'
+[2020.05.02-11.00.02:059][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.02-11.00.02:067][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.05.02-11.00.02:091][369]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.05.02-11.02.14:081][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
